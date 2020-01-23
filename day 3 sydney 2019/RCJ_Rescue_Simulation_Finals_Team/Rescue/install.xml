@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MRDS_Dir>C:\</MRDS_Dir>
+  <menifest>CS\System\Rescue\CS_Rescue_AP.manifest.xml</menifest>
+  <Decription>CS Rescue RCAP</Decription>
+  <LogFileName>\Bin\Rescue\Install.dat</LogFileName>
+  <UninStallFileName>\Bin\Rescue\Uninstall.exe</UninStallFileName>
+  <StartMenuDirectory>CsBot Simulator</StartMenuDirectory>
+  <InstallLinkName>\CS Rescue RCAP.lnk</InstallLinkName>
+  <UnInstallLinkName>\Uninstall CS Rescue RCAP.lnk</UnInstallLinkName>
+  <IconFile>\CS\System\Rescue\Rescue_AP.ico</IconFile>
+</InstallInfo>
